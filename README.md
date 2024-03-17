@@ -10,4 +10,4 @@ Tools Used : TABLEAU , MS EXCEl
 
 4. Dashboard Layouting
 
-5. 
+5. Filter Panel
