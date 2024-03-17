@@ -17,4 +17,6 @@ Work in the DashBoard :  1. Total Complaints
 
 2. In Progress Solutions
 
-3. 
+3. Timely Response
+
+4. 
