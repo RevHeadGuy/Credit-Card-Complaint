@@ -11,3 +11,6 @@ Tools Used : TABLEAU , MS EXCEl
 4. Dashboard Layouting
 
 5. Filter Panel
+
+
+Work in the DashBoard : 
