@@ -27,4 +27,6 @@ Work in the DashBoard :  1. Total Complaints
 
 7. Company Response
 
-8. 
+8. Daily Complaints
+
+9. Submitted Via 
