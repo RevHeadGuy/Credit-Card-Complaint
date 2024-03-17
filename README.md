@@ -21,4 +21,6 @@ Work in the DashBoard :  1. Total Complaints
 
 4. Weekly Trend
 
-5. 
+5. State Wise Complaints
+
+6. 
