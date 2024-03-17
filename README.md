@@ -25,4 +25,6 @@ Work in the DashBoard :  1. Total Complaints
 
 6. Top Issues
 
-7. 
+7. Company Response
+
+8. 
