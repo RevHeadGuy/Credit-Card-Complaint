@@ -19,4 +19,6 @@ Work in the DashBoard :  1. Total Complaints
 
 3. Timely Response
 
-4. 
+4. Weekly Trend
+
+5. 
